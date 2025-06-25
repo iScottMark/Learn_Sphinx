@@ -9,6 +9,7 @@ docs/Makefile
 docs/make.bat
 
 # .pyc
+docs/__pycache__
 *.pyc
 
 # Mac OS, refer to https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
