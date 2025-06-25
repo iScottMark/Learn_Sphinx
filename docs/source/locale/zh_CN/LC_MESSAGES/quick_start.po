@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Scott Mark
+# This file is distributed under the same license as the Test Sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-25 14:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/quick_start.rst:2
+msgid "Quick Start"
+msgstr ""
+
+#: ../../source/quick_start.rst:3
+msgid ""
+"This is a quick start guide to help me understand the basic usage of the "
+"project."
+msgstr ""
+
+#: ../../source/quick_start.rst:6
+msgid "Step 1: Create a new project"
+msgstr ""
+
+#: ../../source/quick_start.rst:7
+msgid "You can create a new project using the following command:"
+msgstr ""
+
+#: ../../source/quick_start.rst:9
+msgid "```bash sphinx-quickstart ```"
+msgstr ""
+
+#: ../../source/quick_start.rst:14
+msgid "Step 2: Configure the project"
+msgstr ""
+
+#: ../../source/quick_start.rst:15
+msgid ""
+"After creating the project, you need to configure it. Open the `conf.py` "
+"file in the project directory and set the necessary configurations such "
+"as the project name, author, and version."
+msgstr ""
+
+#: ../../source/quick_start.rst:18
+msgid "Step 3: Write your documentation"
+msgstr ""
+
+#: ../../source/quick_start.rst:19
+msgid ""
+"You can start writing your documentation in reStructuredText or Markdown "
+"format. Create a new file in the `source` directory and add your content."
+" For example, you can create a file named `my_documentation.rst` and add "
+"the following content."
+msgstr ""
+

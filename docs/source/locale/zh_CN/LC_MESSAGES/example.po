@@ -1,0 +1,77 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, scottmark
+# This file is distributed under the same license as the test_sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: test_sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-16 02:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/example.rst:2
+msgid "This is a Title"
+msgstr ""
+
+#: ../../source/example.rst:3
+msgid ""
+"That has a paragraph about a main subject and is set when the '=' is at "
+"least the same length of the title itself."
+msgstr ""
+
+#: ../../source/example.rst:7
+msgid "Subject Subtitle"
+msgstr ""
+
+#: ../../source/example.rst:8
+msgid ""
+"Subtitles are set with '-' and are required to have the same length of "
+"the subtitle itself, just like titles."
+msgstr ""
+
+#: ../../source/example.rst:11
+msgid "Lists can be unnumbered like:"
+msgstr ""
+
+#: ../../source/example.rst:13
+msgid "Item Foo"
+msgstr ""
+
+#: ../../source/example.rst:14
+msgid "Item Bar"
+msgstr ""
+
+#: ../../source/example.rst:16
+msgid "Or automatically numbered:"
+msgstr ""
+
+#: ../../source/example.rst:18
+msgid "Item 1"
+msgstr ""
+
+#: ../../source/example.rst:19
+msgid "Item 2"
+msgstr ""
+
+#: ../../source/example.rst:22
+msgid "Inline Markup"
+msgstr ""
+
+#: ../../source/example.rst:23
+msgid ""
+"Words can have *emphasis in italics* or be **bold** and you can define "
+"code samples with back quotes, like when you talk about a command: "
+"``sudo`` gives you super user powers!"
+msgstr ""
+

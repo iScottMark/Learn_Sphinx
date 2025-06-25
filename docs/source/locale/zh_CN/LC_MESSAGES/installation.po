@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Scott Mark
+# This file is distributed under the same license as the Test Sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-25 14:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/installation.rst:2
+msgid "Installation"
+msgstr "安装"
+
+#: ../../source/installation.rst:4
+msgid "There are 3 main ways to install the project:"
+msgstr "有三种主要的安装方式："
+
+#: ../../source/installation.rst:6 ../../source/installation.rst:11
+msgid "Using pip or conda"
+msgstr "使用 pip 或 conda"
+
+#: ../../source/installation.rst:7 ../../source/installation.rst:15
+msgid "Using docker"
+msgstr "使用 Docker"
+
+#: ../../source/installation.rst:8 ../../source/installation.rst:22
+msgid "Building from source"
+msgstr "从源代码构建"
+
+#: ../../source/installation.rst:12
+msgid ""
+"You can install the project using pip or conda. This is the recommended "
+"way to install the project as it ensures that all dependencies are "
+"installed correctly."
+msgstr ""
+
+#: ../../source/installation.rst:16
+msgid ""
+"You can also run the project using Docker. This is useful if you want to "
+"run the project in a containerized environment. You can pull the Docker "
+"image from the Docker Hub and run it using the following command: ```bash"
+" docker run -p 8000:8000 my_project_image ```"
+msgstr ""
+
+#: ../../source/installation.rst:23
+msgid ""
+"If you prefer to build the project from source, you can clone the "
+"repository and run the setup script. This is useful if you want to "
+"customize the project or contribute to its development. Here are the "
+"steps to build from source: 1. ...... 2."
+msgstr ""
+

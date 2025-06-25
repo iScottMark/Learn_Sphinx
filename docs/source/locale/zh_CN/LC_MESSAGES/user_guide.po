@@ -1,0 +1,115 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025, Scott Mark
+# This file is distributed under the same license as the Test Sphinx
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Sphinx \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-25 14:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"Language-Team: zh_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.17.0\n"
+
+#: ../../source/user_guide/advanced.rst:2
+msgid "Advanced"
+msgstr ""
+
+#: ../../source/user_guide/advanced.rst:3
+msgid ""
+"This section covers advanced topics and features of the library that are "
+"not typically needed for basic usage but can be useful for more complex "
+"applications."
+msgstr ""
+
+#: ../../source/user_guide/advanced.rst:6
+msgid "Debugging"
+msgstr ""
+
+#: ../../source/user_guide/advanced.rst:7
+msgid ""
+"To debug issues with the library, you can enable verbose logging. This "
+"can be done by setting the `DEBUG` environment variable to `true` before "
+"running your application."
+msgstr ""
+
+#: ../../source/user_guide/advanced.rst:10
+msgid "Development"
+msgstr ""
+
+#: ../../source/user_guide/advanced.rst:11
+msgid ""
+"If you want to contribute to the library or modify it for your own needs,"
+" you can clone the repository from GitHub. Make sure to follow the "
+"contribution guidelines provided in the repository."
+msgstr ""
+
+#: ../../source/user_guide/index.rst:2
+msgid "User Guide"
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:2
+msgid "Introduction"
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:3
+msgid ""
+"Welcome to the user guide for our project! This guide is designed to help"
+" you get started with using our software effectively. Whether you are a "
+"new user or an experienced one, you will find valuable information here."
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:6
+msgid "About"
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:7
+msgid ""
+"This project is designed to provide a comprehensive solution for "
+"[describe the main purpose of the project]. It is built with the goal of "
+"[describe the goals, such as ease of use, performance, scalability, "
+"etc.]. The project is open-source and available on GitHub, allowing users"
+" to contribute and improve the software."
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:11
+msgid "Topics Covered"
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:12
+msgid ""
+"**Installation**: Step-by-step instructions on how to install the "
+"software on various platforms."
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:13
+msgid ""
+"**Configuration**: Guidance on how to configure the software to suit your"
+" needs."
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:14
+msgid ""
+"**Usage**: Examples and explanations of how to use the software "
+"effectively."
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:15
+msgid "**Troubleshooting**: Common issues and how to resolve them."
+msgstr ""
+
+#: ../../source/user_guide/intro.rst:16
+msgid ""
+"**Contributing**: Information on how to contribute to the project, "
+"including coding standards and how to submit pull requests."
+msgstr ""
+
