@@ -5,5 +5,10 @@ In this section, we provide a reference for the API of the project. This include
 
 Basic Usage
 ----------------
-.. automodule:: main    
+.. automodule:: main
+    :members:
+
+Additional Modules
+-------------------
+.. automodule:: add
     :members:
