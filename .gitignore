@@ -1,9 +1,12 @@
 # build
 docs/build
 
-# 
+# make
 docs/Makefile
 docs/make.bat
+
+# .pyc
+*.pyc
 
 # Mac OS, refer to https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
 # General
