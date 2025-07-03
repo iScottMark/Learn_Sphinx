@@ -30,3 +30,8 @@ v1.0 (2025-06-23)
 v2.0 (2025-06-25)
 --------------------
 - Added new features and improvements.
+
+v2.5 (2025-07-03)
+--------------------
+- Hosted documentation on Read the Docs.
+- Added support for multiple versions and languages.

@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Test Sphinx \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-25 14:59+0000\n"
+"POT-Creation-Date: 2025-07-03 14:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_CN\n"
@@ -55,4 +55,16 @@ msgstr ""
 #: ../../source/index.rst:32
 msgid "Added new features and improvements."
 msgstr "增加了新功能和改进。"
+
+#: ../../source/index.rst:35
+msgid "v2.5 (2025-07-03)"
+msgstr ""
+
+#: ../../source/index.rst:36
+msgid "Hosted documentation on Read the Docs."
+msgstr "在 Read the Docs 上托管文档。"
+
+#: ../../source/index.rst:37
+msgid "Added support for multiple versions and languages."
+msgstr "增加了对多个版本和语言的支持。"
 

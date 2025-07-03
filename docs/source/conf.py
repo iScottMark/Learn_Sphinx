@@ -27,6 +27,9 @@ extensions = ['sphinx.ext.autodoc',
 
 templates_path = ['_templates']
 exclude_patterns = []
+
+# multiple languages support
+language = 'en'
 locale_dirs = ['locale/']   # path is example but recommended.
 
 # -- Options for HTML output -------------------------------------------------
